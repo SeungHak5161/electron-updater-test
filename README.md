@@ -1,2 +1,2 @@
 repo for testing electron builder
-0.1.2
+0.1.3
